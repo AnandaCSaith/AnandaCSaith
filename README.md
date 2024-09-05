@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ananda Ciríaco Saith 👋
 
-- Cursando graduação em Tecnologia em Sistemas para Internet no IFES.
+- Cursando graduação em Tecnologia em Sistemas para Internet no IFES e Administração na FACELI.
 - Hoje trabalho como estagiária da qualidade.
 - Estudando PHP, Javascript e React.
   
