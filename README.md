@@ -2,7 +2,7 @@
 
 - Cursando graduação em Tecnologia em Sistemas para Internet no IFES e Administração na FACELI.
 - Hoje trabalho como Assistente de Qualidade.
-- Estudando PHP, Javascript e React.
+- Estudando PHP, Node.js, TypeScript, Javascript e React.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ananda-PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
