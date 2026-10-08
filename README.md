@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Ananda Ciríaco Saith 👋
 
 - Cursando graduação em Tecnologia em Sistemas para Internet no IFES e Administração na FACELI.
-- Estudando PHP, Node.js, TypeScript, Javascript e React.
+- Estudando PHP, Node.js, TypeScript, Javascript, React, Dart e Flutter.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ananda-PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
@@ -9,6 +9,7 @@
   <img align="center" alt="Ananda-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ananda-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ananda-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ananda-DART" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 </div>
 
 ##
